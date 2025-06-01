@@ -1,0 +1,41 @@
+{
+  "recommendations": [
+    "aaron-bond.better-comments",
+    "streetsidesoftware.code-spell-checker",
+    "ms-azuretools.vscode-containers",
+    "ms-vscode-remote.remote-containers",
+    "docker.docker",
+    // ======
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    // ======
+    "usernamehw.errorlens",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "felipecaputo.git-project-manager",
+    "GitHub.vscode-pull-request-github",
+    "codezombiech.gitignore",
+    "eamodio.gitlens",
+    "fabiospampinato.vscode-highlight",
+    "kisstkondoros.vscode-gutter-preview",
+    "wix.vscode-import-cost",
+    "oderwat.indent-rainbow",
+    "yzane.markdown-pdf",
+    "johnpapa.vscode-peacock",
+    "ms-vscode.powershell",
+    "alefragnani.project-manager",
+    "ms-vscode-remote.remote-ssh",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.remote-server",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vscode.remote-explorer",
+    "streetsidesoftware.code-spell-checker-russian",
+    "cssho.vscode-svgviewer",
+    "Gruntfuggly.todo-tree",
+    "vscode-icons-team.vscode-icons",
+    "ms-vscode-remote.remote-wsl",
+    "kisstkondoros.vscode-codemetrics",
+    "ms-azuretools.vscode-docker"
+  ],
+  "unwantedRecommendations": []
+}

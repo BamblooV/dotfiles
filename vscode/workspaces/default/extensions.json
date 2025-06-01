@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "mgmcdermott.vscode-language-babel",
+    "dsznajder.es7-react-js-snippets",
+    "xabikos.JavaScriptSnippets",
+    "stylelint.vscode-stylelint",
+    "dbaeumer.vscode-eslint"
+    // JEST
+    // "Orta.vscode-jest",
+    // "firsttris.vscode-jest-runner",
+    // "andys8.jest-snippets",
+  ],
+  "unwantedRecommendations": []
+}
