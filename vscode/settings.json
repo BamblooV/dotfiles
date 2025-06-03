@@ -88,6 +88,11 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
 
+  // SCSS
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
   // Extenshions:
 
   // BetterComments
