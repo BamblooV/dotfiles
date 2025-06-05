@@ -157,5 +157,8 @@
         }
       ]
     }
-  }
+  },
+
+  // CSpell
+  "cSpell.language": "en,ru"
 }
